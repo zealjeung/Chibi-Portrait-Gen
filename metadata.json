@@ -1,0 +1,7 @@
+{
+  "name": "ChibiGen AI",
+  "description": "Generate cute whole-body chibi anime characters with custom backgrounds from simple text descriptions.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
